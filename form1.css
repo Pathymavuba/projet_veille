@@ -1,0 +1,68 @@
+#container
+{
+    margin-top: 80px;
+    border: 1px black solid;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 30px;   
+    background-color: whitesmoke;
+} 
+
+form{
+    
+    position: relative;
+    top: 20px;
+}
+#list
+{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: space-between;
+  
+}
+   
+body{
+    display:flex;
+    flex-direction:row ;
+    justify-content: center;
+}
+
+#envoyer
+{
+    background-color: blue;
+    color: white;
+    width:100px;
+    position: relative;
+    top: 200px;
+    
+}
+#confirmpassword{
+    position: relative;
+    top: 160px;   
+}
+#password{
+    position: relative;
+    top: 120px;   
+}
+#mail{
+    position: relative;
+    top: 80px;   
+}
+#contact{
+    position: relative;
+    top: 40px;   
+}
+.taille
+{
+    height: 20px;
+    width: 250px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 300px;
+}
+
